@@ -1,0 +1,51 @@
+What we’ll be developing:-
+ User App – Android + iOS
+ Panel for Casting Directors
+ Admin Panel
+
+
+Customer/User App (Android + iOS):-
+1. Login/Signup
+2. Add Images (5 free)
+3. Upload Videos (2 free)
+4. Participate in Live Auditions/Interviews
+5. Buy Packages for Adding Additional Photos/Videos
+6. Manage Online Profile
+7. Manage Payment Methods – Wallet/Cash/Online (Recommended PayUMoney/Paytm 
+Integration)
+Additional features as requested by client:-
+1. Conduct online competitions
+2. e-Learning (pre-recorded videos)
+3. Sell Merchandise
+4. Reseller Portal
+5. Facility to Record Auditions to be viewed at a later stage 
+
+Panel for Casting Directors:-
+1. Buy/Manage Membership
+2. View User Portfolios
+3. Post/Manage Requirements
+4. Conduct Online Auditions/Interviews
+5. View Recorded Auditions
+6. Manage Payment Methods – Wallet/Cash/Online (Recommended PayUMoney/Paytm 
+Integration)
+Additional features as requested by client:-
+1. Fix Audition Timing
+2. View Pre-Recorded Auditions
+
+
+
+Admin Panel:-
+For Application Management
+ Manage Users (Create, Read, Update, Delete)
+ Manage Casting Directors (Create, Read, Update, Delete)
+ Manage Orders/Packages (Create, Read, Update, Delete)
+ Manage Payment Reports (Read, Delete)
+ Manage Recorded Auditions/Interviews (Read, Delete)
+
+
+Reseller:-
+1. Manage Resellers (Create, Read, Update, Delete)
+2. Manage Reseller Payments (Read, Delete)
+3. Manage Competitions (Create, Read, Update, Delete)
+4. Manage e-Learning Courses (Create, Read, Update, Delete)
+5. Manage/Sell Merchandise (Create, Read, Update, Delete)
